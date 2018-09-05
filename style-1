@@ -421,7 +421,7 @@ blockquote p{
  * 2.2.1. Main menu
  */
 .main-menu{
-  margin-top: -40px;/* correccion: distancia del menu al tope era 4 */
+  margin-top: -47px;/* correccion: distancia del menu al tope era 4 */
 }
 .main-menu2{
    width: 100%;
