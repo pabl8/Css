@@ -393,8 +393,8 @@ blockquote p{
   padding: 12px 0;
 }
 .header-bottom-wrap>.header-logo {
-margin-top: -30px;/* correccion: era 7px */
-margin-left: -60px; /* correccion:linea no existia */
+margin-top: -30px;/* pepe: correccion: era 7px */
+margin-left: -60px; /* pepe:correccion:linea no existia */
 }
 .header-acgbtb .acgbtb-content,
 .acgbtb .header-logo{
