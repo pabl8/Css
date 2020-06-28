@@ -393,8 +393,8 @@ blockquote p{
   padding: 12px 0;
 }
 .header-bottom-wrap>.header-logo {
-margin-top: -30px;/* pepe: correccion: era 7px */
-margin-left: -60px; /* pepe:correccion:linea no existia */
+margin-top: -30px;/* PM: correccion: era 7px */
+margin-left: -60px; /* PM:correccion:linea no existia */
 }
 .header-acgbtb .acgbtb-content,
 .acgbtb .header-logo{
@@ -423,7 +423,7 @@ margin-left: -60px; /* pepe:correccion:linea no existia */
  * 2.2.1. Main menu
  */
 .main-menu{
-  margin-top: -47px;/* correccion: distancia del menu al tope era 4 */
+  margin-top: -47px;/*PM correccion: distancia del menu al tope era 4 */
 }
 .main-menu2{
    width: 100%;
