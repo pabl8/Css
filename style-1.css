@@ -1,4 +1,6 @@
  /* Url donde ver el archivo :public_html/wp-content/themes/wyzi-business-finder/css/style-1.css
+/* 
+
 /*  
     CSS INDEX
     ===================
@@ -322,9 +324,9 @@ blockquote p{
  * 2.1.2. Social area
  */
 .header-social a{
- border-left: 1px solid #374553; 
+ border-left: 30 px solid #374553; 
  background-color: transparent;
-  color: #fff;
+ color: #fff;
   display: block;
   float: left;
   text-align: center;
@@ -332,7 +334,7 @@ blockquote p{
 
 }
 .header-social a:last-child{
-  border-right: 10px solid #374553;
+  border-right: 0px solid #374553; /* border-right: 10 px */ 
 }
 .header-social a i{
   line-height: 50px; /* PM era 50 px*/ 
@@ -360,6 +362,7 @@ blockquote p{
 }
 .header-social a.instagram:hover{
   background-color: #8a3ab9; /* PM era background-color: #375989;*/  
+
 }
 .header-social a.youtube-play:hover{
   background-color: #c3181e;
@@ -909,7 +912,7 @@ a.meanmenu-reveal span{
   float:left;
 }
 #page-header-image .container-2{
-  width: 300px;
+  width: 500px;
   vertical-align: middle;
   white-space: nowrap;
   position: relative;
